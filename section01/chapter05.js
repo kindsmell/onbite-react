@@ -16,7 +16,7 @@ let nan = NaN; // Not a Number
 
 //-------------------------------------------
 //2. String Type
-let myName = "홍길동";
+let myName = "홍길 동";
 let myLocation = "서울";
 
 //덧셈연산 지원
